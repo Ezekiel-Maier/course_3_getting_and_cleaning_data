@@ -10,5 +10,6 @@
 * Column names are made more descriptive
 * A second tidy dataset, named all_data_averages, is created. This data structure contains the mean of each variable for each activity and each subject.
 * The second tidy dataset is written to the file "samsung_galaxy_accelerometer_data_means.txt"
+
 ## CodeBook: CodeBook.md
 * See the code book for more information on the original dataset, tidy dataset, and the tidy dataset analysis file
